@@ -22,3 +22,5 @@ Analyze the data using pandas and numpy
 create a formatted pdf report using fpdf 
 
 output:
+
+![Image](https://github.com/user-attachments/assets/28d356e8-d3d5-4e39-a3ba-cc4b74a4f464)
